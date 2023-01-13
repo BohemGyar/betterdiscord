@@ -6,7 +6,7 @@
   height: 17px;
   margin: 1.5px 6px 0 0;
   pointer-events: none;
-  background: url("https://cdn.discordapp.com/emojis/949374369245835334.webp?v=1") center/100% no-repeat;
+ /* background: url("https://cdn.discordapp.com/emojis/949374369245835334.webp?v=1") center/100% no-repeat; */
 }
 
 .member-2gU6Ar .wrapper-1VLyxH[data-user-id="299180558712307712"]::before {
@@ -17,7 +17,7 @@
   bottom: -3px;
   left: -5px;
   z-index: 2;
-  background: url("https://cdn.discordapp.com/emojis/949374369245835334.webp?v=1") no-repeat;
+ /* background: url("https://cdn.discordapp.com/emojis/949374369245835334.webp?v=1") no-repeat; */
   background-size: 85%;
   border-radius: 0 5px 0 0;
   pointer-events: none;
@@ -31,7 +31,7 @@
   height: 14px;
   bottom: 2px;
   right: -26px;
-  background: url("https://cdn.discordapp.com/emojis/949374369245835334.webp?v=1") no-repeat;
+ /* background: url("https://cdn.discordapp.com/emojis/949374369245835334.webp?v=1") no-repeat; */
   background-size: 100%;
   border-radius: 0 5px 0 0;
   pointer-events: none;
@@ -51,7 +51,7 @@
   -webkit-background-clip: text;
   -webkit-animation: shine 10s linear infinite;
           animation: shine 10s linear infinite;
-  background-image: linear-gradient(-60deg, #000000 0%, #ffffff 50%, #000000 100%);
+  background-image: linear-gradient(-60deg, #2bfaf0 0%, #ffffff 50%, #1d2ae6 100%);
 }
 
 @-webkit-keyframes shine {
