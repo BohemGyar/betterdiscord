@@ -336,7 +336,7 @@
   -webkit-background-clip: text;
   -webkit-animation: shine 10s linear infinite;
           animation: shine 10s linear infinite;
-  background-image: linear-gradient(-60deg, #1543FF 0%, #02E2CA 50%, #1543FF 100%);
+  background-image: linear-gradient(-60deg, #00FFF2 0%, #0000FF 50%, #00FFF2 100%);
 }
 
 @-webkit-keyframes shine {
