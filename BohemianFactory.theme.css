@@ -14,7 +14,7 @@
 /* --- User variables --- */
 
 /* Jumping GIF */
---jumping-gif: url('https://i.imgur.com/dCd49s0.gif');
+--jumping-gif: url('https://i.imgur.com/dCd49s0.gif'); 
 
 /* Background (if you want an image replace it by : 
 
@@ -29,25 +29,25 @@
 .theme-dark {
 
     /* Text */
-    --text-normal: #f8e1e5;
-    --header-primary: #f8e1e5;
-    --interactive-normal: #fab1bd;
-    --channels-default: #f8e1e5;
+    --text-normal: #B8C8FF;
+    --header-primary: #B8C8FF;
+    --interactive-normal: #A4FDEC;
+    --channels-default: #B8C8FF;
 
-    --text-muted: #e2c1c7;
-    --interactive-muted: #ad8c91;
+    --text-muted: #F4D03F;
+    --interactive-muted: #8C8DAD;
 
-    --header-secondary: #e2c1c7;
-    --interactive-hover: #e2c1c7;
-    --interactive-active: #e2c1c7;
+    --header-secondary: #54C5FB;
+    --interactive-hover: #54C5FB;
+    --interactive-active: #54C5FB;
 
     /* Background color */
-    --background-primary: #37365e;
-    --background-secondary: #293249;
-    --background-secondary-alt: #2b1d3b;
-    --background-tertiary: #220f14;
-    --background-floating: #221115;
-    --background-accent: #c5536c;
+    --background-primary: #2f2d6b;
+    --background-secondary: #0f2452;
+    --background-secondary-alt: #072566;
+    --background-tertiary: #072566;
+    --background-floating: #072566;
+    --background-accent: #2bc26a;
     --channeltextarea-background: var(--background-secondary);
     --background-modifier-hover: rgba(56, 31, 31, 0.32);
     --background-modifier-active: rgba(19, 12, 12, 0.32);
