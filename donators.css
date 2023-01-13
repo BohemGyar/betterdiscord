@@ -52,7 +52,7 @@
   -webkit-background-clip: text;
   -webkit-animation: shine 10s linear infinite;
           animation: shine 10s linear infinite;
-  background-image: linear-gradient(-60deg, #00fff2 0%, #0000FF 50%, #00fff2 100%);
+  background-image: linear-gradient(-60deg, #00FFF2 0%, #0000FF 50%, #00FFF2 100%);
 }
 /* Ő */
 .userPopout-2j1gM4 .avatarWrapper-eenWra[data-user-id="689196871280754751"] + div > .profileBadges-2pItdR::before
@@ -280,6 +280,63 @@
   -webkit-animation: shine 10s linear infinite;
           animation: shine 10s linear infinite;
   background-image: linear-gradient(-60deg, #2E8B57 0%, #FFEFD5 50%, #2E8B57 100%);
+}
+
+/* Zs */
+.userPopout-2j1gM4 .avatarWrapper-eenWra[data-user-id="409269972095729676"] + div > .profileBadges-2pItdR::before
+ {
+  content: "";
+  position: relative;
+  width: 20px;
+  height: 17px;
+  margin: 1.5px 6px 0 0;
+  pointer-events: none;
+ /* background: url("https://cdn.discordapp.com/emojis/949374369245835334.webp?v=1") center/100% no-repeat; */
+}
+
+.member-2gU6Ar .wrapper-1VLyxH[data-user-id="409269972095729676"]::before {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 14px;
+  bottom: -3px;
+  left: -5px;
+  z-index: 2;
+ /* background: url("https://cdn.discordapp.com/emojis/949374369245835334.webp?v=1") no-repeat; */
+  background-size: 85%;
+  border-radius: 0 5px 0 0;
+  pointer-events: none;
+}
+
+.avatar-2e8lTP[src*="409269972095729676"] + h3 .username-h_Y3Us::after
+ {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 14px;
+  bottom: 2px;
+  right: -26px;
+ /* background: url("https://cdn.discordapp.com/emojis/949374369245835334.webp?v=1") no-repeat; */
+  background-size: 100%;
+  border-radius: 0 5px 0 0;
+  pointer-events: none;
+}
+.avatar-2e8lTP[src*="409269972095729676"] + h3 .timestamp-p1Df1m
+ {
+  margin-left: 30px;
+}
+
+.avatar-2e8lTP[src*="409269972095729676"] + h3 .username-h_Y3Us,
+.channel-1Shao0[data-user-id="409269972095729676"] .overflow-1wOqNV,
+.member-2gU6Ar[data-user-id="409269972095729676"] .username-i5-wv- > span,
+.userPopout-2j1gM4[data-user-id="409269972095729676"] ~ .nameTag-2Nlmsy .username-3JLfHz {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  -webkit-animation: shine 10s linear infinite;
+          animation: shine 10s linear infinite;
+  background-image: linear-gradient(-60deg, #1543FF 0%, #02E2CA 50%, #1543FF 100%);
 }
 
 @-webkit-keyframes shine {
