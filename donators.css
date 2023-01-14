@@ -222,7 +222,7 @@
   -webkit-background-clip: text;
   -webkit-animation: shine 10s linear infinite;
           animation: shine 10s linear infinite;
-  background-image: linear-gradient(-60deg, #0000FF 0%, #CCAFE6 50%, #0000FF 100%);
+  background-image: linear-gradient(-60deg, #0000FF 0%, #0096FF 50%, #0000FF 100%);
 }
 
 /* Kris */
