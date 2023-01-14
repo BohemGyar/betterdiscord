@@ -30,7 +30,7 @@
 
     /* Text */
     --text-normal: #B8C8FF;
-    --header-primary: #B8C8FF;
+    --header-primary: #ffee00;
     --interactive-normal: #A4FDEC;
     --channels-default: #B8C8FF;
 
@@ -42,12 +42,12 @@
     --interactive-active: #54C5FB;
 
     /* Background color */
-    --background-primary: #2f2d6b;
-    --background-secondary: #0f2452;
-    --background-secondary-alt: #072566;
-    --background-tertiary: #072566;
-    --background-floating: #072566;
-    --background-accent: #2bc26a;
+    --background-primary: #46436C;
+    --background-secondary: #575485;
+    --background-secondary-alt: #46436C;
+    --background-tertiary: #46436C;
+    --background-floating: #46436C;
+    --background-accent: #17d667;
     --channeltextarea-background: var(--background-secondary);
     --background-modifier-hover: rgba(56, 31, 31, 0.32);
     --background-modifier-active: rgba(19, 12, 12, 0.32);
